@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="SRINDUhardware">79e19760db42330036b49b81ca9619a7</parent>
+        <roles/>
+        <sc_catalog display_value="induit service catalog">9231df20db42330036b49b81ca9619aa</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 06:05:35</sys_created_on>
+        <sys_id>dfa953a4db42330036b49b81ca9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>software</sys_name>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sc_category_dfa953a4db42330036b49b81ca9619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 06:05:35</sys_updated_on>
+        <title>software</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=dfa953a4db42330036b49b81ca9619dc"/>
+</record_update>

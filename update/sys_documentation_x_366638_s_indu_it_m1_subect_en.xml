@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="subect" label="Subect" language="en" table="x_366638_s_indu_it_m1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>subect</element>
+            <help/>
+            <hint/>
+            <label>Subect</label>
+            <language>en</language>
+            <name>x_366638_s_indu_it_m1</name>
+            <plural>Subects</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:39:35</sys_created_on>
+            <sys_id>cd22cb54dbc2330036b49b81ca961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Subect</sys_name>
+            <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+            <sys_update_name>sys_documentation_x_366638_s_indu_it_m1_subect_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:39:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

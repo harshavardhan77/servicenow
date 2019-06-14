@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="m1" max_length="40" name="x_366638_s_indu_it_m1" type="collection">
+        <element label="subect" max_length="100" name="subect" type="string"/>
+    </element>
+</database>

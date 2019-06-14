@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="m1" language="en" table="x_366638_s_indu_it_m1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>m1</label>
+            <language>en</language>
+            <name>x_366638_s_indu_it_m1</name>
+            <plural>m1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:39:35</sys_created_on>
+            <sys_id>4122cb54dbc2330036b49b81ca961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>m1</sys_name>
+            <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+            <sys_update_name>sys_documentation_x_366638_s_indu_it_m1__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:39:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

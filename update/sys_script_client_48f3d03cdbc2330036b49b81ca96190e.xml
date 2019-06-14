@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>on submit</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 10:32:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>48f3d03cdbc2330036b49b81ca96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>on submit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sys_script_client_48f3d03cdbc2330036b49b81ca96190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 10:32:21</sys_updated_on>
+        <table>x_366638_s_indu_it_log_incident</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

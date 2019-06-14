@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="linux">571de9b0dbc6330036b49b81ca961996</sc_cat_item>
+        <sc_category display_value="books">df5c2170dbc6330036b49b81ca9619c5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 16:52:25</sys_created_on>
+        <sys_id>1fceadf0dbc6330036b49b81ca9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>books.linux</sys_name>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sc_cat_item_category_1fceadf0dbc6330036b49b81ca9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 16:52:25</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

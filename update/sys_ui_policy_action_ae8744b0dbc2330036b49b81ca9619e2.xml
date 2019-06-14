@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:22:45</sys_created_on>
+        <sys_id>ae8744b0dbc2330036b49b81ca9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ae8744b0dbc2330036b49b81ca9619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:22:45</sys_updated_on>
+        <table>x_366638_s_indu_it_log_incident</table>
+        <ui_policy display_value="make short description">b9454cb0dbc2330036b49b81ca961919</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

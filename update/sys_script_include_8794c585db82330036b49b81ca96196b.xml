@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_366638_s_indu_it.firstsi</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>firstsi</name>
+        <script><![CDATA[var firstsi = Class.create();
+firstsi.prototype = {
+    initialize: function() {
+    },
+	heloe: function() {
+		gs.addInfoMessage('i have called script');
+    },
+
+    type: 'firstsi'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 08:33:32</sys_created_on>
+        <sys_id>8794c585db82330036b49b81ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>firstsi</sys_name>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sys_script_include_8794c585db82330036b49b81ca96196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 08:33:32</sys_updated_on>
+    </sys_script_include>
+</record_update>

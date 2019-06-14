@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="desktop machine">87de21f0dbc6330036b49b81ca9619cf</sc_cat_item>
+        <sc_catalog display_value="siiet">63fb6d70dbc6330036b49b81ca9619e6</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 16:56:19</sys_created_on>
+        <sys_id>48bf21f0dbc6330036b49b81ca9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>siiet.desktop machine</sys_name>
+        <sys_package display_value="S Indu IT" source="x_366638_s_indu_it">78db3990db02330036b49b81ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu IT">78db3990db02330036b49b81ca9619fd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_48bf21f0dbc6330036b49b81ca9619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 16:56:19</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

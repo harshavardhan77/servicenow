@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366638_s_indu_it_log_incident" sizeclass="9" type="collection">
+        <element label="affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Enddate" max_length="100" name="enddate" type="glide_date"/>
+        <element choice="1" label="harsha" max_length="100" name="harsha" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="harsha.kohli777@gmail.com"/>
+            </choice>
+        </element>
+        <element label="hn" max_length="100" name="hn" type="journal"/>
+        <element choice="1" label="incident contact type" max_length="100" name="incident_contact_type" type="choice">
+            <choice/>
+        </element>
+        <element label="New Due Date" max_length="40" name="new_date" type="due_date"/>
+        <element default="test default" label="sriindu" max_length="100" name="sriindu" type="string"/>
+        <element display="true" label="start date" max_length="100" name="start_date" type="glide_date_time"/>
+        <element choice="3" label="start time" mandatory="true" max_length="100" name="start_time" type="glide_time">
+            <choice/>
+        </element>
+        <element label="S induIT3" max_length="100" name="s_induit3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element label="New Time" max_length="40" name="u_glide_time_3" type="glide_time"/>
+    </element>
+</database>
